@@ -1,5 +1,5 @@
 { 
-  "name": "gsoob141",
+  "name": "true",
   "description": "Deploy Gost to Heroku.",
   "keywords": ["gsoob141"],
   "env": {
@@ -13,6 +13,6 @@
      }
   },
   "stack": "container",
-  "website": "https://github.com/ckerb/gsoob141",
-  "repository": "https://github.com/ckerb/gsoob141"
+  "website": "https://github.com/sulywhaiter/true",
+  "repository": "https://github.com/sulywhaiter/true"
  }
